@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Tesla</string>
+
+    <string name="tap_to_open_the_car">tap to open the car</string>
+
+    <string name="Cybertruck">Cybertruck</string>
+
+    <string name="Battery_Remaining">Battery Remaining</string>
+
+    <string name="up_to_4_hours">up tp 4 hours</string>
+
+    <string name="Distance_Remaining">Distance Remaining</string>
+
+    <string name="up_to_130_kilometers">up to 130 kilometers</string>
+
+    <string name="Tesla">Tesla</string>
+    
+    <string name="Engine">Engine</string>
+    
+    <string name="sleeping_mode">sleeping mode</string>
+
+    <string name="climate">Climate</string>
+
+    <string name="AC_is_ON">A/C is ON</string>
+
+    <string name="Tires">Tires</string>
+
+    <string name="Low_pressure">Low pressure</string>
+
+    <string name="txtDirection">Direction</string>
+
+    <string name="Automatic_Mode">Automatic Mode</string>
+
+    <string name="Information">Information</string>
+
+    <string name="other">Ultra-string glass and polymer-layered
+composite can absorb redirect impact force
+improved. . .</string>
+
+    
+    
+</resources>
